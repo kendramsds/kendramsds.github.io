@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Kendra Osburn"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/kendra_square.png"
   bio              : "Data Science Portfolio"
   location         : "Los Angeles, California"
   email            :
